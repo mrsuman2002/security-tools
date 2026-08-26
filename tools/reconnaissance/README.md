@@ -1,0 +1,1 @@
+# Subdomain Enumeration`n`n`find-subdomains.sh` wraps ProjectDiscovery `subfinder` for authorized asset discovery.`n`nUsage:`n`n```bash`nbash find-subdomains.sh example.com`n``` `n`nOnly scan domains you own or have explicit permission to assess. Results are written to `results/<domain>-subdomains.txt`.`n
